@@ -1,5 +1,7 @@
 # Notedo
 
+![](images/notedo-co.png)
+
 ## Usage
 Contextual help is available by running `notedo help`
 
