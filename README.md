@@ -11,7 +11,7 @@
 - and more... **_under active development_**
 
 ## Usage
-Download the [latest release]({LATEST_RELEASE}) and launch the server
+Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.5-26-g3b9ecf9) and launch the server
 
 ```
 notedo server --gui
