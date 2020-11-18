@@ -1,5 +1,5 @@
 # Notedo
-![](images/notedo-col.png)
+![](images/notedo.gif)
 
 - Keep your Notes, Todos, Images, and Links accessible
 - Fast full text search with instant indexing
