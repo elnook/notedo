@@ -8,10 +8,12 @@
 - All connections stay local with zero external dependencies
 - Works equally on Linux, Mac, and Windows
 - Distributed as a portable self contained executable (no install required)
-- and more... **_under active development_**
+- and more... 
+
+[Notedo Roadmap](https://github.com/elnook/notedo-roadmap)
 
 ## Usage
-Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.5-26-g3b9ecf9) and launch the server
+Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.5-36-g87f2ce6) and launch the server
 
 ```
 notedo server --gui
