@@ -14,7 +14,7 @@
 Notedo is in early development, see [roadmap](https://github.com/elnook/notedo-roadmap) for upcomming features. Feel free to request a new feature or report a bug under [issues](https://github.com/elnook/notedo/issues)
 
 ## Usage
-Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.5-36-g87f2ce6) and launch the server
+Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.5-39-gab2c305) and launch the server
 
 ```
 notedo server --gui
@@ -58,5 +58,6 @@ See the contextual help for additional instructions on modifying settings
 
 ## Tech
 - Back-end written in [Go](https://golang.org/)
-- Front-end written using [Vue.js](https://vuejs.org/)
-- Front-end static content is embedded into the final executable
+- Front-end written using [Vue.js](https://vuejs.org/) with dist embedded into executable
+- Files (markdown, images, etc.) are stored on disk as is
+- Metadata is stored in a [boltdb](https://github.com/etcd-io/bbolt) on disk
