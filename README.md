@@ -11,10 +11,10 @@
 - No install required - distributed as a portable self contained executable
 - and more... 
 
-Notedo is in early development, see [roadmap](https://github.com/elnook/notedo-roadmap) for upcomming features. Feel free to request a new feature or report a bug under [issues](https://github.com/elnook/notedo/issues)
+Notedo is in early development, see [roadmap](https://github.com/elnook/notedo-roadmap) for upcoming features. Feel free to request a new feature or report a bug under [issues](https://github.com/elnook/notedo/issues)
 
 ## Usage
-Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.9-4-g558f8fe) and launch the server
+Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.1.9-10-g35e7dc2) and launch the server
 
 ```
 notedo server --gui
