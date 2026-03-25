@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.4.2-61-g151263d",
-  "windowsURL": "https://github.com/elnook/notedo/releases/download/0.4.2-61-g151263d/notedo-windows-0.4.2-61-g151263d.zip",
-  "macURL": "https://github.com/elnook/notedo/releases/download/0.4.2-61-g151263d/notedo-mac-0.4.2-61-g151263d.tar.gz",
-  "linuxURL": "https://github.com/elnook/notedo/releases/download/0.4.2-61-g151263d/notedo-linux-0.4.2-61-g151263d.tar.gz"
+  "latestVersion": "0.4.2-64-g0c19c93",
+  "windowsURL": "https://github.com/elnook/notedo/releases/download/0.4.2-64-g0c19c93/notedo-windows-0.4.2-64-g0c19c93.zip",
+  "macURL": "https://github.com/elnook/notedo/releases/download/0.4.2-64-g0c19c93/notedo-mac-0.4.2-64-g0c19c93.tar.gz",
+  "linuxURL": "https://github.com/elnook/notedo/releases/download/0.4.2-64-g0c19c93/notedo-linux-0.4.2-64-g0c19c93.tar.gz"
 }
