@@ -14,7 +14,7 @@
 Notedo is in early development, see [roadmap](https://github.com/elnook/notedo-roadmap) for upcoming features. Feel free to request a new feature or report a bug under [issues](https://github.com/elnook/notedo/issues)
 
 ## Usage
-Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.4.2-185-g3862356) and launch the server
+Download the [latest release](https://github.com/elnook/notedo/releases/tag/0.4.2-186-g338cd64) and launch the server
 
 ```
 notedo server --gui
